@@ -11,4 +11,16 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
