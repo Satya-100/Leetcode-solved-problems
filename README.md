@@ -11,6 +11,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -23,4 +24,12 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
