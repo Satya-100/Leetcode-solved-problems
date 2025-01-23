@@ -36,11 +36,13 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -50,9 +52,11 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
