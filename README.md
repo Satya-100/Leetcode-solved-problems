@@ -8,12 +8,14 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0001-two-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
@@ -46,6 +48,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -92,6 +95,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -119,4 +123,5 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
