@@ -232,4 +232,5 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
