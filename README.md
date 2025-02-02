@@ -12,6 +12,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
+| [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
 ## Linked List
 |  |
 | ------- |
@@ -226,4 +228,8 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
