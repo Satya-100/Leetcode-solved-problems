@@ -10,6 +10,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
 | [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
@@ -95,6 +96,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0133-clone-graph](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -119,6 +121,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -236,6 +239,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
 ## Graph
 |  |
@@ -249,6 +253,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
