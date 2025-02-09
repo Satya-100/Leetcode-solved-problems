@@ -15,6 +15,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
 | [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -129,6 +130,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
@@ -189,6 +191,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
