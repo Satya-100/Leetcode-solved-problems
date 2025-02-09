@@ -20,6 +20,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
 | [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0416-partition-equal-subset-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Divide and Conquer
 |  |
 | ------- |
