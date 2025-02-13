@@ -21,6 +21,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +247,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -280,4 +282,8 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
