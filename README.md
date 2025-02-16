@@ -31,6 +31,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0133-clone-graph) |
+| [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
@@ -54,6 +55,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0072-edit-distance) |
+| [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1250-longest-common-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
@@ -236,6 +238,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -294,4 +297,8 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1477-product-of-the-last-k-numbers) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
