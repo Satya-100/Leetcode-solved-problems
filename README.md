@@ -7,6 +7,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -199,6 +200,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0072-edit-distance) |
@@ -317,6 +319,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
