@@ -65,6 +65,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0072-edit-distance](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -191,6 +192,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Sorting
 |  |
@@ -213,6 +215,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0322-coin-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -326,5 +329,6 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
