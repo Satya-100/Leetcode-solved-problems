@@ -20,6 +20,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0322-coin-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0890-lemonade-change) |
 | [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
@@ -195,6 +196,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
@@ -209,6 +211,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0300-longest-increasing-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [1250-longest-common-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -321,5 +324,6 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [0890-lemonade-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
