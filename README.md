@@ -14,6 +14,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -328,6 +329,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0890-lemonade-change) |
