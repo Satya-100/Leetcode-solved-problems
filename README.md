@@ -17,6 +17,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -328,6 +329,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0078-subsets](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
