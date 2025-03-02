@@ -329,6 +329,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0231-power-of-two](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Greedy
 |  |
 | ------- |
