@@ -58,6 +58,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Recursion
