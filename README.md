@@ -66,6 +66,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0204-count-primes](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -365,4 +366,5 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0204-count-primes) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
