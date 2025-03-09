@@ -37,6 +37,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3483-alternating-groups-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3483-alternating-groups-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3483-alternating-groups-ii) |
 ## Tree
 |  |
 | ------- |
