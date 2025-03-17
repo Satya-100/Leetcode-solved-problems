@@ -35,6 +35,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [1477-product-of-the-last-k-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3483-alternating-groups-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3483-alternating-groups-ii) |
@@ -52,6 +53,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -349,6 +351,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0260-single-number-iii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Greedy
 |  |
@@ -372,4 +375,8 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0204-count-primes](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2610-closest-prime-numbers-in-range) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
