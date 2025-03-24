@@ -38,6 +38,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3430-count-days-without-meetings](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -224,6 +225,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3430-count-days-without-meetings](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
 |  |
 | ------- |
