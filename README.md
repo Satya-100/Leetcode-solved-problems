@@ -40,6 +40,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3430-count-days-without-meetings](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3483-alternating-groups-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +227,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3430-count-days-without-meetings](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
 | ------- |
