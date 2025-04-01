@@ -79,6 +79,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0009-palindrome-number](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0371-sum-of-two-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -370,6 +371,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0137-single-number-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0260-single-number-iii) |
+| [0371-sum-of-two-integers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
