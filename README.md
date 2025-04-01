@@ -22,6 +22,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0322-coin-change) |
@@ -50,6 +51,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -222,6 +224,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
