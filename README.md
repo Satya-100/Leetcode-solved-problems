@@ -7,6 +7,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0053-maximum-subarray) |
@@ -227,6 +228,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
@@ -284,6 +286,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0015-3sum) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
