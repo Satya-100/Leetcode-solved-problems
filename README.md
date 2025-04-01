@@ -7,6 +7,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
@@ -263,6 +264,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
