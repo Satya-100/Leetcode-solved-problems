@@ -23,6 +23,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0204-count-primes](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0322-coin-change) |
@@ -341,6 +342,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Trie
 |  |
