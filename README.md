@@ -7,6 +7,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
@@ -286,6 +287,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0015-3sum) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -375,6 +377,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0135-candy) |
