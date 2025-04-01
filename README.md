@@ -251,6 +251,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0152-maximum-product-subarray](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0678-valid-parenthesis-string) |
@@ -373,6 +374,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0191-number-of-1-bits](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
