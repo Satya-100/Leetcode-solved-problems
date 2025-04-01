@@ -37,6 +37,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0890-lemonade-change) |
+| [1036-rotting-oranges](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -185,6 +186,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -331,6 +333,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0064-minimum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1036-rotting-oranges) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
 |  |
