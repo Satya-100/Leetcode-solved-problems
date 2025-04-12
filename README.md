@@ -97,6 +97,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -254,6 +255,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0198-house-robber) |
