@@ -99,6 +99,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0127-word-ladder) |
