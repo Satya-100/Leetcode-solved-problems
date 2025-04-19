@@ -100,6 +100,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0091-decode-ways) |
@@ -235,6 +236,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0144-binary-tree-preorder-traversal) |
