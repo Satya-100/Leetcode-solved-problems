@@ -48,6 +48,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3430-count-days-without-meetings](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3430-count-days-without-meetings) |
@@ -250,6 +251,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3430-count-days-without-meetings](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
@@ -300,6 +302,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -311,6 +314,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0015-3sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0015-3sum) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Design
 |  |
 | ------- |
