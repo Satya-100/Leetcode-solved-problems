@@ -14,8 +14,8 @@ public:
 
         sort(nums.begin(), nums.end());
         int left = 0, right = n-1;
-        
-        while(left!=right){
+
+        while(left<right){
             if(nums[left] + nums[right] < target){
                 res+=right-left;
                 left++;
@@ -29,3 +29,5 @@ public:
         return res;
     }
 };
+
+// -1 1 1 2 3
