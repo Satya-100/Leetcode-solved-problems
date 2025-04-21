@@ -13,6 +13,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0078-subsets) |
@@ -254,6 +255,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
