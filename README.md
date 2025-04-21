@@ -47,6 +47,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [1477-product-of-the-last-k-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2249-count-the-hidden-sequences](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -390,6 +391,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [2249-count-the-hidden-sequences](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2249-count-the-hidden-sequences) |
 ## Trie
 |  |
 | ------- |
