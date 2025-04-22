@@ -18,6 +18,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0057-insert-interval](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -111,6 +112,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0020-valid-parentheses](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -160,6 +162,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0100-same-tree) |
@@ -363,6 +366,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0048-rotate-image](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
@@ -434,6 +438,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0079-word-search) |
 ## Enumeration
 |  |
 | ------- |
