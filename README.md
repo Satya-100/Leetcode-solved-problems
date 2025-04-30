@@ -47,6 +47,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [1036-rotting-oranges](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -99,6 +100,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0231-power-of-two](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0371-sum-of-two-integers) |
 | [0797-rabbits-in-forest](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3227-find-missing-and-repeated-values) |
