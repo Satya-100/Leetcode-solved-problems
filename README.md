@@ -74,6 +74,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-rabbits-in-forest](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0797-rabbits-in-forest) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -121,6 +122,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0127-word-ladder](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -128,6 +130,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
