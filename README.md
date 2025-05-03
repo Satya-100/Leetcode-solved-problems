@@ -46,6 +46,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0890-lemonade-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1039-find-the-town-judge) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -442,6 +443,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0678-valid-parenthesis-string](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0890-lemonade-change) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 ## Backtracking
 |  |
 | ------- |
