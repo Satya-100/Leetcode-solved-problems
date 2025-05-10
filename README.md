@@ -59,6 +59,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3430-count-days-without-meetings](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3430-count-days-without-meetings) |
@@ -446,6 +447,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0797-rabbits-in-forest](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Backtracking
 |  |
 | ------- |
