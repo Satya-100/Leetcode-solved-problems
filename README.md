@@ -9,6 +9,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0001-two-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0048-rotate-image) |
@@ -340,6 +341,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
