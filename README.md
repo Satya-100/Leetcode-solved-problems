@@ -103,6 +103,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0007-reverse-integer](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0060-permutation-sequence) |
 | [0204-count-primes](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0371-sum-of-two-integers) |
@@ -115,6 +116,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 ## String
 |  |
