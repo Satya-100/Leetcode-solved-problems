@@ -12,6 +12,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0031-next-permutation](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
@@ -453,6 +454,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0079-word-search) |
 ## Enumeration
