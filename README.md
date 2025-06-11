@@ -97,6 +97,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0002-add-two-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0143-reorder-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 ## String
 |  |
@@ -269,6 +271,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0020-valid-parentheses](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0678-valid-parenthesis-string) |
@@ -347,6 +350,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0011-container-with-most-water](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0031-next-permutation) |
+| [0143-reorder-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
