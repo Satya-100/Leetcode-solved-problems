@@ -139,6 +139,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -315,6 +316,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0338-counting-bits](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -359,6 +361,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0031-next-permutation](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
+| [0647-palindromic-substrings](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Design
