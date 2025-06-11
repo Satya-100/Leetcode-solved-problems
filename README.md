@@ -14,6 +14,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0056-merge-intervals) |
@@ -73,6 +74,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0001-two-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -128,6 +130,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0079-word-search) |
@@ -283,6 +286,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
