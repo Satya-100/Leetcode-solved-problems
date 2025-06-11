@@ -73,6 +73,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0001-two-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0127-word-ladder) |
@@ -128,6 +129,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0020-valid-parentheses](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0127-word-ladder) |
@@ -141,6 +143,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2626-count-the-number-of-good-subarrays) |
