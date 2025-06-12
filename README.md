@@ -128,6 +128,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0049-group-anagrams) |
@@ -301,6 +302,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0055-jump-game) |
@@ -356,6 +358,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0031-next-permutation) |
