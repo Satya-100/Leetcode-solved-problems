@@ -180,6 +180,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -212,6 +213,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0733-flood-fill) |
@@ -270,6 +272,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -496,4 +499,12 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
