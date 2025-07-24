@@ -41,6 +41,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -355,6 +356,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0173-binary-search-tree-iterator](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -375,6 +377,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0031-next-permutation](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -465,6 +468,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0191-number-of-1-bits](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
