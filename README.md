@@ -20,6 +20,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0056-merge-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -349,6 +350,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -417,6 +419,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | ------- |
 | [0048-rotate-image](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0417-pacific-atlantic-water-flow) |
