@@ -41,6 +41,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0213-house-robber-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0287-find-the-duplicate-number) |
@@ -88,6 +89,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0169-majority-element](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0229-majority-element-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -307,6 +309,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0169-majority-element](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -514,6 +517,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
 ## String Matching
