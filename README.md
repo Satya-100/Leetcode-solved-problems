@@ -34,6 +34,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0137-single-number-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0204-count-primes) |
@@ -84,6 +85,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -302,6 +304,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0049-group-anagrams](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
@@ -343,6 +346,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -509,6 +513,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
 ## String Matching
