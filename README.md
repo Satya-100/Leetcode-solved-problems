@@ -66,6 +66,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [2249-count-the-hidden-sequences](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2486-most-frequent-even-element](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2486-most-frequent-even-element) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -99,6 +100,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2486-most-frequent-even-element](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2486-most-frequent-even-element) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -520,6 +522,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0229-majority-element-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2486-most-frequent-even-element](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/2486-most-frequent-even-element) |
 ## String Matching
 |  |
 | ------- |
