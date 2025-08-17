@@ -25,6 +25,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 | [0078-subsets](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -296,6 +297,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0143-reorder-list) |
@@ -382,6 +384,7 @@ Welcome to the LeetCode Solutions repository, your go-to resource for mastering 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Satya-100/Leetcode-solved-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
